@@ -5,6 +5,6 @@ Local Treasury is an Android application built using Kotlin and FireBase which a
 Installing Local Treasurey is simple just download the app using the Local_Treasury (APK)[Local_Treasury.apk] available in this repository
 
 ### Check out this video by Gauging Gadgets on wow to install an android app using an APK
-(Video Link)[https://www.youtube.com/watch?v=Ehlzt2OXI4c]
+[Video Link](https://www.youtube.com/watch?v=Ehlzt2OXI4c)
 
-Feel Free to check out our presentation video for Local Treasury (here)[https://www.youtube.com/watch?v=omFZmvBOId0]
+Feel Free to check out our presentation video for Local Treasury [here](https://www.youtube.com/watch?v=omFZmvBOId0)
